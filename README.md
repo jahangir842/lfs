@@ -49,9 +49,12 @@ Due to varying levels of expertise and system specifications, we recommend a **s
 ## **Prerequisites**  
 
 ### **(a) Reference Material:**  
-- *Linux From Scratch*, Version 12.2  
+ 
+- [*Linux From Scratch, Version 12.2*](https://linuxfromscratch.org/lfs/view/12.2/)  
   Authors: Gerard Beekmans, Bruce Dubbs  
   Published: September 1, 2024  
+
+
 
 ### **(b) Host System Requirements:**  
 **Hardware or VM Specifications:**  
