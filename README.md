@@ -53,7 +53,7 @@ Due to varying levels of expertise and system specifications, we recommend a **s
 - [*Linux From Scratch, Version 12.2*](https://linuxfromscratch.org/lfs/view/12.2/)  
   Authors: Gerard Beekmans, Bruce Dubbs  
   Published: September 1, 2024  
-
+**Note**: The PDF version of this book is also included in this repository.
 
 
 ### **(b) Host System Requirements:**  
